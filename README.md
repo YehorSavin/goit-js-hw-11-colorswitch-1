@@ -1,1 +1,1 @@
-# goit-js-hw-11-promisification-1
+# goit-js-hw-11-colorswitch-1
